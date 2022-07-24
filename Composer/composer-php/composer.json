@@ -1,0 +1,17 @@
+{
+    "name":"jorge/text",
+    "autoload":{
+        "psr-4":{
+            "Text\\":"src/"
+        },
+        "files":[
+            "src/helpers.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "require": {
+        "nesbot/carbon": "^2.59"
+    }
+}

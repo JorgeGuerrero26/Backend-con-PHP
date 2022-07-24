@@ -1,0 +1,19 @@
+{
+    "name": "darklord/configurando-composer",
+    "description": "Ejemplo composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "2.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Adrian",
+            "email": "joradrian2017@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
